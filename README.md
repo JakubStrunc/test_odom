@@ -9,7 +9,10 @@ Today, I made the fuction, which caltulate the local X and Y position(the distan
 
 
 
-For the next time, I want to figure out, how to calculate the total (current) X and Y position with using the angle of the robot.Next, I want to rewrite this code into the code because it is lagging as it is long
+For the next time, I want to figure out, how to calculate the total (current) X and Y position with using the angle of the robot.Next, I want to rewrite this code into the code. For this, there are 2 reason:
+
+- code is too long, so it is running slow
+- multitask code will make code more clear 
 
 
 
