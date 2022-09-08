@@ -1,6 +1,6 @@
 # test_odom 29-30-June-2022
 
-(subProgrammingFiles->Odometry)
+(src->subProgrammingFiles->Odometry)
 
  I start to work on my odometry by using paralel and vertical encoder and Imu. 
 
